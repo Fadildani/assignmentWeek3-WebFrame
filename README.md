@@ -7,6 +7,28 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+
+# Week 03 Assignment - Web Framework (Laravel)
+
+## Student Information
+- *Name* : Fathi Fathan Fathurrahman Nuryadin
+- *NIM*  : 2310130005
+
+## Description
+This repository contains assignments for the Web Framework class.
+The assignment is to replace the native PHP views with Laravel Blade templates,
+and implement all routes with the appropriate views.
+Bootstrap is used for the front-end design.
+
+## How to Run
+1. Clone this repository  
+   ```bash
+   git clone <repo-url>
+
+## About Vendor
+
+vendor cannot be uploaded on github so you have to install vendor yourself at https://getcomposer.org/download/ to be able to run your laravel project
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
