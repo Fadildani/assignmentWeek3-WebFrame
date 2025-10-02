@@ -11,8 +11,8 @@
 # Week 03 Assignment - Web Framework (Laravel)
 
 ## Student Information
-- *Name* : Fathi Fathan Fathurrahman Nuryadin
-- *NIM*  : 2310130005
+- *Name* : Fadillah Dani Prawoto
+- *NIM*  : 2310130004
 
 ## Description
 This repository contains assignments for the Web Framework class.
